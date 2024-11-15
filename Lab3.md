@@ -155,7 +155,7 @@ Sơ đồ này mô tả cách hệ thống bảng lương gửi tiền vào tài
 # 4. Architectural layers and their dependencies
 ## Biểu đồ mô tả các layers trong hệ thống và quan hệ giữa chúng
 ![Diagram](https://www.planttext.com/api/plantuml/png/V5BBRi8m4BpxArQvzCGFv51HG5ILYeeK-835MOWLFwBrKXHL_R8U-adzXPf7APIaXvKjpSpEQEolZyzX56JPEgjKWxh63K7sq3JMQ1GJF3nZIvp1cmBG5cE4R8uj1sl7mSl-JEWljZ2ED7BP2SxGU4dpGve6Tfbwlp0URQFnbBW5yQlH5FljvnmI7iEbmGXzlM3q4VK-UnSbgSSLwVgFwkHtdMPcojBI3fawOXIajsoapVF7vTEKqT4kS7tjvCZBycaSN1Dykbw2dAheD2tQAEIW26lfSPwWu0eZdULdP6ei7VMts4j3d5xKRuw4W-aTJ6YT2eUI6l8bUTr2PHAFTTN2ceC32KqQM0MHu5JNpnWCxlzvkFoqEqBmgfzsM7BRTmwfffH7IuITaKfrS0xIdjPkz6gOikm_-pS0003__mC0)
-## Biểu đồ mô tả các lớp và mối quan hệ giữa các layer trong hệ thống
+## Biểu đồ mô tả các gói và mối quan hệ giữa các layer trong hệ thống
 
 ### 1. **Application Layer**
    - **PayrollController**: Xử lý các logic liên quan đến bảng lương và các chức năng tính lương.
