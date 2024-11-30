@@ -27,5 +27,6 @@
 ## 10.System Administration Subsystem
 ### - Quản lý tài khoản hệ thống và cấu hình.
 ### - Cài đặt lịch trình tự động hóa cho hệ thống trả lương.
-
+# II.Payroll System Subsystem Element
+## ![Diagram]()
 
