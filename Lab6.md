@@ -58,10 +58,83 @@ Mô tả:
 
 # 2. Use case Run Payroll:
 ## 2.1 Xác định các lớp và các operations:
-![Diagram](https://www.planttext.com/api/plantuml/png/f5LTRjGm47xFAVoubUW58bGLoeygLHKYlS3W38jL_wpioOe8SJ8UE19N84xipJWnI8XzsSZp_Nbc9_lhny_RGE1fCBgH6a8G7s3qJkixPob-enVV6X4_Vh2fThXgnTcfFfqZUOLdV6jEses82VG62PGE4VkW0htCvPk5TKIB7YYZF-B9UIg59MWvw0cpKOwewJ4PBDYJTn93c8uDMZfWOhGYSr-8quN2wONZ5x2znivqeC6FTybVELi6wr7ZcgfYbj7VcxMfCLU7_gmaveuggqWjFVZtrA_1FZzvi05aJBWedj6hpsCilPBI3LNDo7LE8zWrNsHqOo0qELjgA7CuqFgyisUY_ns4oUOqpFg-RqKt_UBiSIc1YVAjUASTK3fQB1y7ymbzYMP2bxRo-X7fQGU9q-SW_8fo8EIzgTqbttCpzSaYLx9-xirwjwkrJJlMPi6gvEr-N7Ofxr1r78orkqMEp-sKJHstOB3iKPXNg1ZBT8NttirB6ljLLXwHYdE-EYdJNnCSatAXssC_pFC9nR6TlPZJ_frtVNspNTfM30737x3RMRV2m3E6kBvHGv1hDdAHnTPkLQ-1-4fKf9bEdP6sUJBO1kNX9s1-cTU1R1Orw1up9srkqVRn3-Ot0000__y30000)
-## 2.2 Xác định các thuộc tính:
-![Diagram](https://www.planttext.com/api/plantuml/png/V5HjQi904FsVK-m5Ue5GHAqj58e8Ue5nCqZeViZEh3IKdgm_UgHUePjaa-n6hJyKthnvR-RjuE_tpv8O77kj2gc0IEoWSLQf9sku_KKdFWiHFj8xXuOtm5YAzhj3KP-LRH3fO4DZATvguiVd22uwoXcQ3JBKYjfYfEn6S55y5PEr3XPxT9TQOlGzHv21FPLYpwusfxIIJ3GghS6y7nmO0icrDL6A9-IrogH0Ms_2R2_A0lU8b2sqzVg8BkCcAd65iPpvxnjYrDVM52EOpTY7LLFVjhe4OJYgiDdQMeLW9l4XtZmdJ-YIWFCt69vf77WeNwj6kQ6Z3Qesd65Rq9X5Gg30DMby5LP-s7P2Zs7bLHzirc-Gk-lfcUazn87_6UhaB57IVT_zokNwr1yU5lChBDjagPYXBN5-PAMG3iCPKZ6l3Enu4XFnzWGPTN2_mHkVh1Ju8PMlxZAJ9AFY_8XcUXeCd6xJKYq9IdhLhR94KuL_aJy0003__mC0)
+![Diagram](https://www.planttext.com/api/plantuml/png/T5BDIWCn4BxlKmIyr4EXWXxSWtIjBVIW21KypoPZ6vfabcHMMCKdy-0Z-GecwswbstK32vdlP-ORyltvDGyCdcjhih3NhW8FLaW38HJCNfSrurgIs-Wt5BCXPKMEM-JYSWnw08kYy1fEl5iXDmP5IKODqLkG-wsdsga56VBYR7MTpWcDl4BVKMQpgsLHP5cBYAMj33M8uZqJySFkkbQvsCHKRjkMNPplg511Oz7nFVAEr1YoIExwHKjWJUw88S78sW3Z8pIJyrpSKLqQp3xwaPwqHGbUTIEfo8oa-4z0MzfHxSCp-JsgKtbqzMHCeQnsEh07Zgb_hK2fFk-aJveVLX17UIMjMgQlNUSpwSl31ficCDhEkV8aCOGHpM71q-dDNxHSXBgqceFWhXIoOzz4FsZplW66jE14oqPp3bGM76oZfW-RbWd_AuydoDCM_lhDqQdq-7y0003__mC0)
+## 2.2 Xác định các thuộc tính và mô tả:
+![Diagram](https://www.planttext.com/api/plantuml/png/b5LjZjCm4FsVKrZzrPNe7Y12guLb5o6X5I9xWS6PBTRwex8d5H7YPFpWI5o1EBMJYTE2w9z6dlVUl9dn9Bz__heD19uwewjAQWX1V8BUEwtldANuZrvyhyJuyvrDmUrLBOvEjJc0v1KUyTuSjEiH4-eT4YWT8lYZ2lGwXsyIROyMFL26VyQ3yrH8Iz2oqmEeq8wmuJ6bIE23Tn936CuDMigCBQQ7MkIZL-8mSRdEClTNiAt6neG6DFZ-BbbHpXOcMzGuEpoJByD_i2P7Ymtwev8uTLXPHUhKaHZ-F-TlmRuyUR01PFIO98_erNCVOs-aTDrPqKXsJYFOsM5aD7qWD9Exr5wMOqlpyyh09LK6IT8xmNG-jBLeXljazoa69jgknODsGFdiLCjZPxwWB_1CQseK0yHxHqyhJ1pf0eNVK7Q4lDfp5UKUbgCSakHGpf0RFrTuDSzWJIksw2nxjGBJlYJstoybewyAccR34okR9s31OD7uCAu97zHOptllnfsCxIj2ZqYB0D-FPEmVDlP9V7azMcoxSMHXUMx7V2pR-cKdThiRKUvdBJPTmB2vY2zl0ITmeHEQxTO0DF228Qvr10focwfK6rdJN0PAVk662rZUloMSfHRNryaBtyW1dlOymtdqnE5MrkwhMxHj_A3y0G00__y30000)
+### Lớp: PayrollController
+- **Phương thức:**
+  - `runPayroll()`: Chạy quy trình tính lương.
+  - `retrieveEmployeePayrollDetails()`: Lấy thông tin chi tiết lương của nhân viên.
+  - `generatePayrollReport()`: Tạo báo cáo lương.
+  - `calculateEmployeePayroll()`: Tính lương cho một nhân viên.
+  - `processPaymentEmployee(employee, payDetails)`: Xử lý thanh toán cho một nhân viên.
+  - `handleSmsSalaryCalculation()`: Xử lý tính toán lương qua SMS.
+  - `deleteEmployee(employee)`: Xóa thông tin nhân viên.
+
+### Lớp: PaymentService
+- **Phương thức:**
+  - `initiatePayment(employee, payDetails)`: Khởi tạo việc thanh toán cho nhân viên.
+  - `verifyBankAccount(employee)`: Xác thực tài khoản ngân hàng của nhân viên.
+
+### Lớp: BankSystem
+- **Phương thức:**
+  - `processTransaction(transaction)`: Xử lý giao dịch ngân hàng.
+
+### Lớp: BankTransaction
+- **Thuộc tính:**
+  - `transactionId`: Mã giao dịch duy nhất.
+  - `amount`: Số tiền trong giao dịch.
+  - `accountNumber`: Số tài khoản của giao dịch.
+  - `transactionDetails`: Chi tiết giao dịch.
+- **Phương thức:**
+  - `getTransactionDetails()`: Trả về chi tiết giao dịch.
+  - `executeTransaction()`: Thực hiện giao dịch.
+
+### Lớp: EmployeeService
+- **Phương thức:**
+  - `getEmployeeDetails(employeeId)`: Lấy thông tin chi tiết nhân viên theo mã nhân viên.
+  - `getEmployeePayrollDetails(employeeId)`: Lấy thông tin chi tiết lương của nhân viên theo mã nhân viên.
+  - `calculatePayrollEmployee(employee)`: Tính toán lương cho một nhân viên.
+
+### Lớp: Employee
+- **Thuộc tính:**
+  - `employeeId`: Mã nhân viên duy nhất.
+  - `name`: Tên nhân viên.
+  - `salary`: Mức lương của nhân viên.
+- **Phương thức:**
+  - `getGrossPay()`: Trả về tổng lương trước thuế của nhân viên.
+  - `getNetPay()`: Trả về lương thực nhận của nhân viên sau khi trừ thuế và các khoản giảm trừ.
+
+### Lớp: PayDetails
+- **Thuộc tính:**
+  - `employeeId`: Mã nhân viên.
+  - `grossPay`: Tổng lương trước thuế.
+  - `deductions`: Các khoản giảm trừ.
+  - `netPay`: Lương thực nhận sau khi trừ các khoản giảm trừ.
+
 ## 2.3 Xác định các mối quan hệ và phụ thuộc:
-![Diagram](https://www.planttext.com/api/plantuml/png/V5DRQiCm4FptAVIPGd81KqBw2WHAAKqliCWR8wg7MQqDflHa_UYHUeLAiPGuTgW_RB4pEpiUIR_VFnlFGDmQNKWDtejNwCbf_U0ino-I-2n4UAYr2LhSbA9pgZgMQxH8m9YmDsmSyGL3WfQj7YWBD8rsFM8fdj8gK0FmY0nA--AhEDimQ7cFr2c9oOEoYjMW5C4hQalHdCJ6mc7AFTYFTmBhGR9oTl3cx46HoNfyXcVy_4idXn7VzvxH97SDEOdUZth-5LmACAwrN8gjTi3HeNCQON3M8Qb37rlkf8oqwz7bbfEhZ5q6LoDdmCVDULQURtDbFQLi7SNaGj2BAhnA4PVphjdCD2mRtLLbs36-gBs02Nfx9cNh8-110_KfWoWvFt-hrNfw74hHUlJ5f1g9erqvawu8JdDAv6bvJ0qS0nRgGDkWhSAL-GC00F__0m00)
+### 1. **Quan hệ giữa PayrollController và PaymentService**
+
+- **Giải thích**: `PayrollController` sử dụng `PaymentService` để thực hiện các giao dịch thanh toán cho nhân viên. Khi payroll được chạy, hệ thống sẽ cần liên kết với dịch vụ thanh toán để xử lý việc chi trả tiền lương cho nhân viên.
+  
+- **Loại quan hệ**: **Sử dụng (Uses)**  
+  - `PayrollController` không sở hữu `PaymentService`, mà chỉ sử dụng nó để thực hiện các chức năng liên quan đến thanh toán.
+
+
+### 2. **Quan hệ giữa EmployeeService và Employee**
+
+- **Giải thích**: `EmployeeService` lấy thông tin chi tiết về nhân viên từ đối tượng `Employee`, bao gồm các dữ liệu về lương, thông tin cá nhân, và các yếu tố liên quan đến việc tính toán tiền lương.
+  
+- **Loại quan hệ**: **Lấy thông tin (Retrieves)**  
+  - `EmployeeService` cần lấy dữ liệu từ `Employee` để thực hiện các thao tác như tính toán lương, truy xuất thông tin cơ bản của nhân viên.
+
+### 3. **Quan hệ giữa BankSystem và BankTransaction**
+
+- **Giải thích**: `BankSystem` phụ thuộc vào `BankTransaction` để thực hiện các giao dịch thanh toán. Khi thực hiện một giao dịch thanh toán cho nhân viên, hệ thống ngân hàng sẽ sử dụng thông tin trong `BankTransaction` để xử lý.
+  
+- **Loại quan hệ**: **Phụ thuộc (Depends)**  
+  - `BankSystem` phụ thuộc vào `BankTransaction` để thực hiện các giao dịch thanh toán, nghĩa là `BankSystem` không thể hoàn thành nhiệm vụ nếu không có `BankTransaction`.
+
+
 ## 2.4 Xác định các trạng thái chính:
-![Diagram](https://www.planttext.com/api/plantuml/png/T991JWCn34NtSmglaNe15gYYGeBTYAehnCBD63GYaumIfrBEne8ZSGNi9WobJNVHzt_9jvtlpwzrP0oS9jl9WGcU1alr-4mSHZgCxlrXcgtFHB5MDcXDiiXIwZ5NiG_UK8n5cyZnh_iHdLnwZ-vZv_20eyNzyaQrRhoyG4n3rxtSlC9gTNSC0hSI0eSCx24a1pFcuAtjZZKrDI8AizMM5dFBe-p_9WJxAuU2I9mpatANVGghHLEzWZKyYZOd8RGgiCsHQOBJ6RNzLqDefnaYkK5qsEkb7D15D3nwTotK-GfADoh1N0ZHOZ9wUalMvkw2EDbNNwOEPjdeMlB8__e1003__mC0)
+![Diagram](https://www.planttext.com/api/plantuml/png/R92n2i9038RtF4LceI_GGSJMmK4efPiuXBjWZrxJShqRV3O77ybNi54wjBY4_7_o_P2ydw_352d4r7kuxcwOPNiyMyy0Mh-oJY9ExXKzmk0zvhXqZUiPQoRJieNDbe85UPCynPyzWul16W6RiH9LSAAwQDbqCt0Xvt48M3dJPMdyXnn9kYQGJ6IY6sI6IXVOH2nv72ONOPsfYDwPuqaiRE7r50uiLX_p0G00__y30000)
